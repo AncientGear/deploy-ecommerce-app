@@ -188,9 +188,8 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+**[Saul Tzakun]**
+- LinkedIn: www.linkedin.com/in/saulisraeltzakumochoa
 
 ## 🙏 Acknowledgments
 
